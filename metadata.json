@@ -1,0 +1,5 @@
+{
+  "name": "Crime Intelligence Platform",
+  "description": "A modern, data-driven dashboard for crime intelligence and predictive policing.",
+  "requestFramePermissions": ["geolocation"]
+}
