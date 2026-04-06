@@ -1,0 +1,1 @@
+﻿{"meta":{"rows":3,"source":"tidb"},"data":[{"reliability_band":"weak","regions":2,"avg_accuracy":0.5807692307692307,"avg_recall":0.4600716392751791},{"reliability_band":"medium","regions":6,"avg_accuracy":0.708974358974359,"avg_recall":0.693197551096033},{"reliability_band":"strong","regions":69,"avg_accuracy":0.9774804905239688,"avg_recall":0.24068433979285048}]}

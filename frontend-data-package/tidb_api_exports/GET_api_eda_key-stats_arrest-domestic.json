@@ -1,0 +1,1 @@
+﻿{"meta":{"rows":1,"source":"tidb"},"data":[{"arrest":[{"status":"Not Arrested","raw_value":"False","count":2076380},{"status":"Arrested","raw_value":"True","count":443117}],"domestic":[{"type":"Non-Domestic","raw_value":"False","count":2032150},{"type":"Domestic","raw_value":"True","count":487347}]}]}

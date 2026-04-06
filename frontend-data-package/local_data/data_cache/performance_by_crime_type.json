@@ -1,0 +1,1 @@
+{"meta": {"rows": 2, "source": "tidb"}, "data": [{"dominant_type": "BATTERY", "accuracy": 0.9335897435897437, "precision": 0.4308012342654619, "recall": 0.4839950007433427, "communities": 30}, {"dominant_type": "THEFT", "accuracy": 0.9543371522094927, "precision": 0.1984086405440373, "recall": 0.1524829363517651, "communities": 47}]}

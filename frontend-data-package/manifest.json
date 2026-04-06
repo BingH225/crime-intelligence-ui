@@ -1,0 +1,10 @@
+﻿{
+    "generated_at":  "2026-04-06 22:57:21 +08:00",
+    "backend_base":  "http://127.0.0.1:8002",
+    "includes":  {
+                     "tidb_api_export_files":  39,
+                     "local_data_cache_files":  101,
+                     "hardship_csv":  true,
+                     "report_figures":  6
+                 }
+}
